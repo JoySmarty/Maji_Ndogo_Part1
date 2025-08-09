@@ -32,49 +32,49 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
 # Water Sources Identified
 1. River
 
-Type: Open water source.
+  Type: Open water source.
 
-Challenges: Easily contaminated by industrial waste, sewage, and agricultural runoff.
+  Challenges: Easily contaminated by industrial waste, sewage, and agricultural runoff.
 
-Usage: Common in rural communities without water infrastructure.
+  Usage: Common in rural communities without water infrastructure.
 
 2. Well
 
-Type: Closed underground water source.
+  Type: Closed underground water source.
 
-Strengths: Safer than rivers due to reduced exposure to open contaminants.
+  Strengths: Safer than rivers due to reduced exposure to open contaminants.
 
-Challenges: Aging infrastructure, historical corruption, and occasional contamination.
+  Challenges: Aging infrastructure, historical corruption, and occasional contamination.
 
-Example: Well at 146 Okapi Road, Yaounde - 
+  Example: Well at 146 Okapi Road, Yaounde - 
 
 
 3. Shared Tap
 
-Type: Public tap in a communal space.
+  Type: Public tap in a communal space.
 
-Usage: Serves large groups of people.
+  Usage: Serves large groups of people.
 
-Example: Shared tap at 18 Twiga Lane, Hawassa serving ~2,700 people -
+  Sample: Shared tap at 18 Twiga Lane, Hawassa serving ~2,700 people -
 
 4. Tap in Home
 
-Type: Private household tap.
+  Type: Private household tap.
 
-Population Served: On average, 6 people per household.
+  Population Served: On average, 6 people per household.
 
-Example: Tap in Dahabu (capital city) in the home of a citizen’s uncle.
+  Sample: Tap in Dahabu (capital city) in the home of a citizen’s uncle.
 
-Note: Data is aggregated — one record may represent multiple households.
-Example: 956 people served ≈ 160 households × 6 people per home - 
+  Note: Data is aggregated — one record may represent multiple households.
+  Sample: 956 people served ≈ 160 households × 6 people per home - 
 
 5. Broken Tap in Home
 
-Type: Private taps that are non-functional.
-
-Causes: Burst pipes, faulty pumps, or non-operational treatment plants.
-
-Example: Water treatment plant in Kintampo serving ~1,000 people - 
+  Type: Private taps that are non-functional.
+  
+  Causes: Burst pipes, faulty pumps, or non-operational treatment plants.
+  
+  Sample: Water treatment plant in Kintampo serving ~1,000 people - 
 
 
 # Key Observations from EDA
