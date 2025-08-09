@@ -49,7 +49,8 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   Challenges: Aging infrastructure, historical corruption, and occasional contamination.
 
   Sample: Well at 146 Okapi Road, Yaounde - Maji_Ndogo_Part_1/assets/images/Well.PNG
-  ![Well Image](assets/images/Well.PNG)
+  ![Well Image](Maji_Ndogo_Part_1/assets/images/Well.PNG)
+
 
 
 ### Shared Tap
