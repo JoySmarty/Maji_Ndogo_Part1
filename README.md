@@ -1,4 +1,4 @@
-## Maji_Ndogo_Part1
+# Maji_Ndogo_Part1
 Maji Ndogo – Part One: Understanding Water Sources
 
 # Project Context
@@ -30,7 +30,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   
 
 # Water Sources Identified
-1. River
+### River
 
   Type: Open water source.
 
@@ -38,7 +38,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
 
   Usage: Common in rural communities without water infrastructure.
 
-2. Well
+### Well
 
   Type: Closed underground water source.
 
@@ -49,7 +49,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   Example: Well at 146 Okapi Road, Yaounde - 
 
 
-3. Shared Tap
+### Shared Tap
 
   Type: Public tap in a communal space.
 
@@ -57,7 +57,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
 
   Sample: Shared tap at 18 Twiga Lane, Hawassa serving ~2,700 people -
 
-4. Tap in Home
+### Tap in Home
 
   Type: Private household tap.
 
@@ -68,7 +68,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   Note: Data is aggregated — one record may represent multiple households.
   Sample: 956 people served ≈ 160 households × 6 people per home - 
 
-5. Broken Tap in Home
+### Broken Tap in Home
 
   Type: Private taps that are non-functional.
   
