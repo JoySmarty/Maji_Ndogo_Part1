@@ -37,6 +37,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   Challenges: Easily contaminated by industrial waste, sewage, and agricultural runoff.
 
   Usage: Common in rural communities without water infrastructure.
+  Sample: This is a river in the province of Sokoto - Maji_Ndogo_Part_1/assets/images/River.PNG
 
 ### Well
 
@@ -46,7 +47,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
 
   Challenges: Aging infrastructure, historical corruption, and occasional contamination.
 
-  Example: Well at 146 Okapi Road, Yaounde - 
+  Sample: Well at 146 Okapi Road, Yaounde - Maji_Ndogo_Part_1/assets/images/Well.PNG
 
 
 ### Shared Tap
@@ -55,7 +56,7 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
 
   Usage: Serves large groups of people.
 
-  Sample: Shared tap at 18 Twiga Lane, Hawassa serving ~2,700 people -
+  Sample: Shared tap at 18 Twiga Lane, Hawassa serving ~2,700 people - Maji_Ndogo_Part_1/assets/images/Shared_taps.PNG
 
 ### Tap in Home
 
@@ -63,10 +64,10 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
 
   Population Served: On average, 6 people per household.
 
-  Sample: Tap in Dahabu (capital city) in the home of a citizen’s uncle.
+  Sample: Tap in Dahabu (capital city) in the home of a citizen’s uncle - Maji_Ndogo_Part_1/assets/images/Tap_in_home.PNG
 
   Note: Data is aggregated — one record may represent multiple households.
-  Sample: 956 people served ≈ 160 households × 6 people per home - 
+  Sample: 956 people served ≈ 160 households × 6 people per home - Maji_Ndogo_Part_1/assets/images/Broken_tap_in_home.PNG
 
 ### Broken Tap in Home
 
