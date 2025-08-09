@@ -38,7 +38,8 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
 
   Usage: Common in rural communities without water infrastructure.
   Sample: This is a river in the province of Sokoto - Maji_Ndogo_Part_1/assets/images/River.PNG
-  
+  ![Well Image](Maji_Ndogo_Part_1/assets/images/River.PNG)
+
 
 ### Well
 
@@ -52,7 +53,6 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   ![Well Image](Maji_Ndogo_Part_1/assets/images/Well.PNG)
 
 
-
 ### Shared Tap
 
   Type: Public tap in a communal space.
@@ -60,6 +60,8 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   Usage: Serves large groups of people.
 
   Sample: Shared tap at 18 Twiga Lane, Hawassa serving ~2,700 people - Maji_Ndogo_Part_1/assets/images/Shared_taps.PNG
+  ![Well Image](Maji_Ndogo_Part_1/assets/images/Shared_taps.PNG)
+
 
 ### Tap in Home
 
@@ -70,7 +72,9 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   Sample: Tap in Dahabu (capital city) in the home of a citizen’s uncle - Maji_Ndogo_Part_1/assets/images/Tap_in_home.PNG
 
   Note: Data is aggregated — one record may represent multiple households.
-  Sample: 956 people served ≈ 160 households × 6 people per home - Maji_Ndogo_Part_1/assets/images/Broken_tap_in_home.PNG
+  Example: 956 people served ≈ 160 households × 6 people per home 
+  ![Well Image](Maji_Ndogo_Part_1/assets/images/Well.PNG)
+
 
 ### Broken Tap in Home
 
@@ -78,7 +82,9 @@ This phase focused on exploring and understanding the Maji Ndogo water dataset t
   
   Causes: Burst pipes, faulty pumps, or non-operational treatment plants.
   
-  Sample: Water treatment plant in Kintampo serving ~1,000 people - 
+  Sample: Water treatment plant in Kintampo serving ~1,000 people - Maji_Ndogo_Part_1/assets/images/Broken_tap_in_home.PNG
+  ![Well Image](Maji_Ndogo_Part_1/assets/images/Broken_tap_in_home.PNG)
+
 
 
 # Key Observations from EDA
